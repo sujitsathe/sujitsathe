@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sujit Sathe</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 
+<img align="right" alt="coding" width="400" scr="https://media.gifdb.com/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitsathe&label=Profile%20views&color=0e75b6&style=flat" alt="sujitsathe" /> </p>
 
+- 🌱 I’m currently learning **Power BI**
+
 - 📫 How to reach me **sujitsathe11@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
