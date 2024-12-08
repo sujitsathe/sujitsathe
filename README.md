@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitsathe&label=Profile%20views&color=0e75b6&style=flat" alt="sujitsathe" /> </p>
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **Stastical Analysis**
 
 - 📫 How to reach me **sujitsathe11@gmail.com**
 
