@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sujitsathe11@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **"Data nerd by day, data enthusiast by night"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
